@@ -1,10 +1,6 @@
+import replacer
 import unittest
 import re
-import sys
-
-sys.path.insert(0, '/Users/pwilliams/Documents/github/replacer-cli/replacer')
-
-import replacer
 
 class TestReplacer(unittest.TestCase):
     """Test the find replace functions."""
