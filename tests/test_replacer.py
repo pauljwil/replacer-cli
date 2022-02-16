@@ -2,7 +2,7 @@ import unittest
 import re
 import sys
 
-sys.path.insert(0, '/Users/pwilliams/Documents/python/cli_stuff/replace-cli/replacer')
+sys.path.insert(0, '/Users/pwilliams/Documents/github/replacer-cli/tests/test_replacer.py')
 
 import replacer
 
